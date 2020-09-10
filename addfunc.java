@@ -1,1 +1,1 @@
-int add (a,b){ return (a+b) }
+int add (a,b,c){ return (a+b+c) }
